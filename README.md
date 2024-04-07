@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gouravarcnov0@gmail.com**
 
-- ⚡ Fun fact **My diverse skill set is more dynamic than my personality :)**
+- ⚡ Fun fact **My diverse skill set is more dynamic than my personality : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
