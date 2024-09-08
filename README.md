@@ -1,4 +1,4 @@
-<h1 align="center">Namaskar🙏🏻, I am GOURAV PATRA</h1>
+<h1 align="center">Welcome to my GITHUB Page🙏🏻, I am GOURAV PATRA</h1>
 <h3 align="center">Oracle Cloud Fusion Analytics Warehouse Certified Implementational Professional</h3>
 
 - 🔭 I’m currently working on **Blockchain**
